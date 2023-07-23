@@ -6,7 +6,7 @@ font-family: 'Lugrasimo', cursive;
 .bannerBgImage {
     height: 98vh;
     width: 100%;
-    background: url("/chaithupf/images/darkbg.jpg");
+    background: url("/images/darkbg.jpg");
     background-size: cover;
     position: relative;
     box-shadow: white;
